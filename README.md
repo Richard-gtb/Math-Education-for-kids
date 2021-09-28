@@ -1,4 +1,5 @@
-# Math-Education-for-kids: An educational game to help kids with geometry
+# Math-Education-for-kids: 
+## An educational game to help kids with geometry
 
 First semester - computer engineering
 
